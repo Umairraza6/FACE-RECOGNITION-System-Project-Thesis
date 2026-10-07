@@ -1,3 +1,15 @@
+# Automated Face Recognition Attendance System
+
+This repository contains the complete source code, system execution scripts, and thesis documentation for the Automated Face Recognition Attendance System.
+
+## Full Project Archive & Pre-trained Model Weights
+
+Due to GitHub's file size limits (>25MB for files like `trainer.yml`), the complete uncompressed project folder including pre-trained weights and full datasets is hosted on Google Drive:
+
+📂 **[Download Full Project Folder & Trainer Model (Google Drive)](https://drive.google.com/drive/folders/1UL60uAVjb2u4Vd7na7Josm8mWt65hx8W?usp=drive_link)**
+
+....
+
 Umair Raza
 # Face_recognition_attendance_system_using_Computer_Vision
 A python GUI integrated attendance system using face recognition to take attendance.
